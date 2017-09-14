@@ -1,0 +1,43 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-image:url('../img/bg.jpg');
+
+}
+.navbar-brand{
+	font-family:Courgette;
+}
+.menu-header{
+	font-family:sans-serif;
+}
+.well{
+	margin-top: 200px;
+}
+.modal-dialog{
+	margin-top:200px;
+}
+/*.jumbotron {
+  background-image: url('../img/bg3.jpg');
+  width: 100%;
+  background-repeat:no-repeat;
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+}
+#contents{
+	margin-top:375px;
+	text-align:center;
+}
+img{
+	/*border: 2px solid #003c51;
+	border-radius: 50%;
+	text-align:center;
+	margin:auto;
+}
+h4,h5{
+	color:#000;
+	line-height:20px;
+}*/
+#Aboout{
+	margin-top:100px;
+}
